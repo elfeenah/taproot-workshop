@@ -22,7 +22,7 @@ standard bitcoin data directory, but why risk it?
 ## Background
 
 It will be useful to have some background on schnorr and taproot before running
-through the exercises in this repository.
+through the exercises in this repository
 
 ### Schnorr
 
